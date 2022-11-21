@@ -1,0 +1,10 @@
+button {
+  background-color: #a61e4d;
+  color: #eee;
+  padding: 15px 25px;
+  border: none;
+}
+button:hover {
+  background-color: #d6336c;
+}
+<button type="button" id="toggler">Light Button</button>
